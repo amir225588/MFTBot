@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 
-app = Flask(__فقغقغقفعق__)
+app = Flask(__name__)
 
 BOT_NAME = "مجتمع فنی تهران - مرکزی (سعادت آباد)"
 PHONE = "0212729"
