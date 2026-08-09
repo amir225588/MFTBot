@@ -1,6 +1,9 @@
 name = "mftbot"
+
 main = "worker.py"
 
 compatibility_date = "2026-08-08"
 
-compatibility_flags = ["python_workers"]
+compatibility_flags = [
+    "python_workers"
+]
