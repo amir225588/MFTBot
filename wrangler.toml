@@ -2,7 +2,6 @@ name = "mftbot"
 
 main = "worker.py"
 
-compatibility_date = "2026-08-08"
+compatibility_date = "2026-08-09"
 
-[python]
-compatibility = "3.12"
+[python_workers]
