@@ -44,7 +44,7 @@ DEPARTMENT_BUTTONS = [
 
     {
         "title": "🎨 هنر، سینما و تولید محتوا",
-        "url": "https://mftplus.com/department/هنر،-سینما-و-تولید-محتوا"
+        "url": "https://mftplus.com/department/هنر،-سينما-و-توليد-محتوا"
     },
 
     {
